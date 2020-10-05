@@ -60,11 +60,15 @@ Como primera introducción a modelos multilabel se uso **OneVsRestClassifier**.
 
 Para poder identificar el mejor modelo se utilizaron diferentes scoring tales como accurrancy, precision score, recall score y F1 score. 
 
+Esta es una primera incursión preliminar en el aprendizaje supervisado. Eso significa que la mayoría de las técnicas aplicadas en los informes son simples y podrían parecer claras trampas para un científico de datos experimentado. Aún así, esto nos presentó una serie de problemas para explorar y muchas preguntas abiertas.
+
 
 ## Lecciones aprendidas
 Durante la confección de este informe y conforme avanzamos, nos dimos cuenta que hay muchas cosas por mejorar en nuestra investigación. Con esta investigación adquirimos muchas experiencia y como lecciones aprendidas rescatamos:
 * Usar tecnicas apropiadas de balanceo. Eliminar datos de nuestro dataset sin una buena justificación no lleva a tener una muestra sesgada.
 * La dificuldad de obtener modelos con un buen score demuestra la importancia de tener una buena muestra de datos. Nos dimos cuenta que nuestros dataset quedo muy pequeño para ser representativo y obtener buenos modelos. 
 * Gracias a esta investigación comprendimos la importancia que tiene la recolección de datos y una buena selección de los mismo puede terminar en un proyecto exitoso o no.
+
+
 
 
